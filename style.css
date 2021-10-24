@@ -14,12 +14,12 @@ body {
 }
 
 p {
-    font-size: 16px;
-    line-height: 28px;
+    font-size: 15px;
+    line-height: 25px;
 }
 
 button{
-    padding: 15px;
+    padding: 14px;
     color: white;
     background-color: hsl(245, 75%, 52%);
     font-size: 15px;
@@ -68,18 +68,18 @@ button:hover {
 .card-info {
     text-align: center;
     background-color: white;
-    padding: 40px;
+    padding: 50px;
 }
 
 .info h1 {
-    font-size: 26px;
+    font-size: 25px;
     text-transform: capitalize;
-    font-weight: 900;
+    font-weight: 700;
     color: hsl(223, 47%, 23%);
 }
 
 .info p {
-    padding: 10px;
+    padding: 8px;
 }
 
 .music-plan {
